@@ -1,4 +1,3 @@
-package org.example.Easy;
 
 import java.util.HashMap;
 import java.util.Map;

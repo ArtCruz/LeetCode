@@ -1,4 +1,3 @@
-package org.example.Easy;
 
 import java.util.ArrayList;
 import java.util.List;

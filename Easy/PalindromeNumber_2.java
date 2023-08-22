@@ -1,4 +1,3 @@
-package org.example.Easy;
 
 public class PalindromeNumber_2 {
     public static void main(String[] args) {
